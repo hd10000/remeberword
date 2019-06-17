@@ -1,0 +1,77 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.asus.a1.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        >
+        <menu>
+            <item
+                android:id="@+id/num00"
+                android:title="0" >
+            </item>
+            <item
+                android:id="@+id/num01"
+                android:title="1" >
+            </item>
+            <item
+                android:id="@+id/num02"
+                android:title="2" >
+            </item>
+            <item
+                android:id="@+id/num03"
+                android:title="3" >
+            </item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        >
+        <menu>
+            <item
+                android:id="@+id/num10"
+                android:title="0" >
+            </item>
+            <item
+                android:id="@+id/num11"
+                android:title="1" >
+            </item>
+            <item
+                android:id="@+id/num12"
+                android:title="2" >
+            </item>
+            <item
+                android:id="@+id/num13"
+                android:title="3" >
+            </item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_about"
+        >
+        <menu>
+            <item
+                android:id="@+id/num20"
+                android:title="0" >
+            </item>
+            <item
+                android:id="@+id/num21"
+                android:title="1" >
+            </item>
+            <item
+                android:id="@+id/num22"
+                android:title="2" >
+            </item>
+            <item
+                android:id="@+id/num23"
+                android:title="3" >
+            </item>
+        </menu>
+    </item>
+
+
+</menu>

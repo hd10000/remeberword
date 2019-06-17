@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1小时两千单词</string>
+    <string name="frist_tip">点击+添加excel词库</string>
+    <string name="action_settings">设置上面</string>
+    <string name="action_help">设置中间</string>
+    <string name="action_about">设置下面</string>
+</resources>
